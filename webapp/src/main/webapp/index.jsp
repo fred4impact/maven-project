@@ -1,1 +1,1 @@
-Hey !, we are live now using checktsyle to check our code .
+Hello!, we are live now
