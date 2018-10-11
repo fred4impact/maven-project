@@ -1,1 +1,1 @@
-Hello,maven running jenkins now by fred hurray running things now!
+Hey !, we are live now using checktsyle to check our code .
